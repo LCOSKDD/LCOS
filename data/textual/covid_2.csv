@@ -1,0 +1,5 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese
+1,Smoking,being a smoker,fumare,fumer,吸烟
+2,Covid-19 severity,a severe form of covid-19,gravità del covid-19,gravité du covid-19,Covid-19严重程度
+3,Healthcare worker,being a healthcare worker,essere un operatore sanitario,être un travailleur de la santé,是一名医护人员
+4,Covid-19 test,being positive to covid-19 test,positivo al test covid-19,test covid-19 positif,Covid-19测试

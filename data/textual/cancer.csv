@@ -1,0 +1,6 @@
+node,var_name,var_description_english,var_description_italian,var_description_french,var_description_chinese
+1,pollution,level of pollution,livello di inquinamento,niveau de pollution,污染水平
+2,smoker,smoking status,stato di fumatore,statut de fumeur,吸烟状态
+3,cancer,presence of cancer,presenza di cancro,présence de cancer,癌症存在
+4,x-ray,x-ray,raggi x,rayons x,X光
+5,dysponea,laboured breathing,respiro affannoso,respiration laborieuse,呼吸困难
